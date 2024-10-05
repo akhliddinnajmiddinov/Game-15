@@ -1,0 +1,6 @@
+Package   Version
+--------- -------
+pip       24.0
+PyQt5     5.15.11
+PyQt5-Qt5 5.15.15
+PyQt5_sip 12.15.0
